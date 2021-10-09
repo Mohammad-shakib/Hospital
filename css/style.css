@@ -1,0 +1,791 @@
+#header-section p {
+  font-size: 15px;
+  color: green; }
+
+#header-section .icon-section {
+  top: 0;
+  right: 0;
+  text-align: right; }
+  #header-section .icon-section .fab {
+    font-size: 25px;
+    padding-left: 10px; }
+
+.navbar {
+  background-color: black;
+  padding: 20px; }
+  .navbar .navbar-brand {
+    font-size: 20px;
+    color: white; }
+  .navbar .nav-link {
+    font-size: 15px;
+    color: white; }
+  .navbar .last-section {
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 15px; }
+
+#home-section {
+  min-height: 550px;
+  background-image: url("../img/home-bacground-img.jpeg");
+  background-size: cover; }
+  #home-section h1 {
+    margin-top: 120px;
+    font-size: 55px;
+    color: green; }
+  #home-section h2 {
+    color: green;
+    padding-bottom: 20px; }
+  #home-section a {
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid darkblue;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white; }
+
+#home-2nd-section {
+  padding: 40px; }
+  #home-2nd-section .section-1 {
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    box-shadow: 0 8px 16px 0 #778ca3;
+    margin-top: -70px; }
+    #home-2nd-section .section-1 .fas {
+      font-size: 20px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-1 h2 {
+      font-size: 35px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-1 p {
+      padding-bottom: 20px;
+      font-size: 20px; }
+    #home-2nd-section .section-1 a {
+      text-decoration: none;
+      font-size: 20px;
+      border: 1px solid green;
+      padding: 10px;
+      border-radius: 15px;
+      color: white; }
+  #home-2nd-section .section-2 {
+    text-align: center;
+    background-color: green;
+    color: white;
+    box-shadow: 0 8px 16px 0 #778ca3;
+    margin-top: -70px; }
+    #home-2nd-section .section-2 .fas {
+      font-size: 20px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-2 h2 {
+      font-size: 30px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-2 p {
+      font-size: 20px;
+      padding-bottom: 20px; }
+  #home-2nd-section .section-3 {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    box-shadow: 0 8px 16px 0 #778ca3;
+    margin-top: -70px; }
+    #home-2nd-section .section-3 .fas {
+      font-size: 20px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-3 h2 {
+      font-size: 30px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-3 p {
+      font-size: 15px;
+      padding-bottom: 20px; }
+  #home-2nd-section .section-4 {
+    text-align: center;
+    background-color: #218c74;
+    color: white;
+    box-shadow: 0 8px 16px 0 #778ca3;
+    margin-top: -70px; }
+    #home-2nd-section .section-4 .fas {
+      font-size: 20px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-4 h2 {
+      font-size: 30px;
+      padding-bottom: 20px; }
+    #home-2nd-section .section-4 p {
+      font-size: 15px;
+      padding-bottom: 20px; }
+
+#about .about-img {
+  min-height: 400px;
+  width: 100%;
+  text-align: center;
+  background-image: url("../img/about.jpg");
+  background-size: cover; }
+  #about .about-img a {
+    text-decoration: none; }
+    #about .about-img a .fab {
+      margin-top: 200px;
+      font-size: 60px;
+      color: red; }
+
+#about .section-1 h2 {
+  font-size: 30px;
+  padding-bottom: 20px;
+  color: darkblue; }
+
+#about .section-1 p {
+  font-size: 15px; }
+
+#about .section-2 {
+  padding-bottom: 20px; }
+  #about .section-2 .fas {
+    font-size: 35px;
+    margin-right: 10px;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 30px; }
+  #about .section-2 h2 {
+    font-size: 20px;
+    color: #218c74;
+    margin-top: 10px; }
+  #about .section-2 p {
+    margin-top: 0; }
+
+#about .section-3 {
+  padding-bottom: 20px; }
+  #about .section-3 .fas {
+    font-size: 35px;
+    margin-right: 10px;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 30px; }
+  #about .section-3 h2 {
+    font-size: 20px;
+    color: #218c74;
+    margin-top: 10px; }
+  #about .section-3 p {
+    margin-top: 0; }
+
+#about .section-4 {
+  padding-bottom: 20px; }
+  #about .section-4 .fas {
+    font-size: 35px;
+    margin-right: 10px;
+    border: 1px solid green;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 30px; }
+  #about .section-4 h2 {
+    font-size: 20px;
+    color: #218c74;
+    margin-top: 10px; }
+  #about .section-4 p {
+    margin-top: 0; }
+
+#about-second-section {
+  padding: 20px; }
+  #about-second-section .first-section {
+    background-color: black;
+    border: 1px solid green;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 0 8px 16px 0 darkblue; }
+    #about-second-section .first-section .fas {
+      font-size: 35px;
+      color: #40739e;
+      margin-bottom: 10px; }
+    #about-second-section .first-section h3 {
+      font-size: 30px;
+      color: green; }
+    #about-second-section .first-section p {
+      font-size: 20px;
+      color: green; }
+  #about-second-section .second-section {
+    background-color: black;
+    border: 1px solid green;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 0 8px 16px 0 darkblue; }
+    #about-second-section .second-section .fas {
+      font-size: 35px;
+      color: #40739e;
+      margin-bottom: 10px; }
+    #about-second-section .second-section h3 {
+      font-size: 30px;
+      color: green; }
+    #about-second-section .second-section p {
+      font-size: 20px;
+      color: green; }
+  #about-second-section .third-section {
+    background-color: black;
+    border: 1px solid green;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 0 8px 16px 0 darkblue; }
+    #about-second-section .third-section .fas {
+      font-size: 35px;
+      color: #40739e;
+      margin-bottom: 10px; }
+    #about-second-section .third-section h3 {
+      font-size: 30px;
+      color: green; }
+    #about-second-section .third-section p {
+      font-size: 20px;
+      color: green; }
+  #about-second-section .four-section {
+    background-color: black;
+    border: 1px solid green;
+    text-align: center;
+    padding-top: 15px;
+    box-shadow: 0 8px 16px 0 darkblue; }
+    #about-second-section .four-section .fas {
+      font-size: 35px;
+      color: #40739e;
+      margin-bottom: 10px; }
+    #about-second-section .four-section h3 {
+      font-size: 30px;
+      color: green; }
+    #about-second-section .four-section p {
+      font-size: 20px;
+      color: green; }
+
+#service {
+  padding: 30px;
+  background-color: #2f3640; }
+  #service h2 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px; }
+  #service p {
+    font-size: 15px;
+    color: white; }
+  #service hr {
+    border: 1px solid #67e6dc;
+    margin-bottom: 20px; }
+  #service .card-section-1 {
+    min-height: 200px;
+    background-color: #40407a;
+    text-align: center; }
+    #service .card-section-1 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: white; }
+    #service .card-section-1 h3 {
+      color: white; }
+    #service .card-section-1 p {
+      color: #D6A2E8;
+      font-size: 15px; }
+  #service .card-section-2 {
+    min-height: 200px;
+    background-color: #58B19F;
+    text-align: center; }
+    #service .card-section-2 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: black; }
+    #service .card-section-2 h3 {
+      color: black; }
+    #service .card-section-2 p {
+      color: black;
+      font-size: 15px; }
+  #service .card-section-3 {
+    min-height: 200px;
+    background-color: #6D214F;
+    text-align: center; }
+    #service .card-section-3 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: white; }
+    #service .card-section-3 h3 {
+      color: white; }
+    #service .card-section-3 p {
+      color: white;
+      font-size: 15px; }
+  #service .card-section-4 {
+    min-height: 200px;
+    background-color: #535c68;
+    text-align: center; }
+    #service .card-section-4 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: white; }
+    #service .card-section-4 h3 {
+      color: white; }
+    #service .card-section-4 p {
+      color: white;
+      font-size: 15px; }
+  #service .card-section-5 {
+    min-height: 200px;
+    background-color: #130f40;
+    text-align: center; }
+    #service .card-section-5 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: white; }
+    #service .card-section-5 h3 {
+      color: white; }
+    #service .card-section-5 p {
+      color: white;
+      font-size: 15px; }
+  #service .card-section-6 {
+    min-height: 200px;
+    background-color: #10ac84;
+    text-align: center; }
+    #service .card-section-6 .fas {
+      font-size: 35px;
+      margin-bottom: 10px;
+      color: white; }
+    #service .card-section-6 h3 {
+      color: white; }
+    #service .card-section-6 p {
+      color: white;
+      font-size: 15px; }
+
+#make-an-appointment {
+  padding: 40px; }
+  #make-an-appointment h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 35px; }
+
+#departments {
+  padding: 40px;
+  color: darkblue;
+  background-color: #67e6dc; }
+  #departments .first-section h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px; }
+  #departments .first-section hr {
+    border: 1px solid green;
+    max-width: 150px; }
+  #departments .first-section p {
+    margin-bottom: 20px; }
+  #departments .second-section a {
+    margin-right: 10px;
+    font-size: 15px;
+    color: black; }
+  #departments .third-section h3 {
+    font-size: 30px;
+    margin-bottom: 20px; }
+  #departments .third-section h6 {
+    margin-bottom: 20px; }
+
+#doctors {
+  padding: 40px;
+  background-color: #4b6584; }
+  #doctors .first-section h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white; }
+  #doctors .first-section hr {
+    border: 1px solid #00cec9;
+    max-width: 150px; }
+  #doctors .first-section p {
+    color: white;
+    margin-bottom: 20px; }
+  #doctors .second-section {
+    margin-bottom: 30px; }
+    #doctors .second-section h3 {
+      margin-top: 40px;
+      font-size: 25px;
+      margin-bottom: 10px;
+      color: white; }
+    #doctors .second-section h5 {
+      color: white;
+      font-size: 15px; }
+    #doctors .second-section hr {
+      border: 1px solid white; }
+    #doctors .second-section p {
+      color: white; }
+    #doctors .second-section .icon-section {
+      font-size: 30px; }
+      #doctors .second-section .icon-section .fab {
+        margin-right: 10px;
+        color: white; }
+  #doctors .third-section {
+    margin-bottom: 30px; }
+    #doctors .third-section h3 {
+      margin-top: 40px;
+      font-size: 25px;
+      margin-bottom: 10px;
+      color: white; }
+    #doctors .third-section h5 {
+      color: white;
+      font-size: 15px; }
+    #doctors .third-section hr {
+      border: 1px solid white; }
+    #doctors .third-section p {
+      color: white; }
+    #doctors .third-section .icon-section {
+      font-size: 30px; }
+      #doctors .third-section .icon-section .fab {
+        margin-right: 10px;
+        color: white; }
+
+#frequently-asked-questions {
+  padding: 40px;
+  background-color: #AB6ECC; }
+  #frequently-asked-questions h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white; }
+  #frequently-asked-questions hr {
+    border: 1px solid green;
+    max-width: 200px; }
+  #frequently-asked-questions p {
+    margin-bottom: 30px;
+    color: white; }
+  #frequently-asked-questions .far {
+    font-size: 25px;
+    margin-right: 10px; }
+
+#gallery {
+  padding: 40px;
+  background-color: #2c2c54; }
+  #gallery h2 {
+    font-size: 35px;
+    color: white;
+    text-align: center; }
+  #gallery hr {
+    border: 1px solid green;
+    max-width: 150px; }
+  #gallery p {
+    color: white;
+    margin-bottom: 30px; }
+
+#contact {
+  padding: 40px;
+  background-color: #4b6584; }
+  #contact h2 {
+    font-size: 35px;
+    color: white;
+    text-align: center; }
+  #contact hr {
+    border: 1px solid white;
+    max-width: 150px; }
+  #contact p {
+    color: white; }
+
+#contact-section-two {
+  padding: 40px;
+  background-color: #6D214F; }
+  #contact-section-two .fas {
+    font-size: 35px;
+    border: 1px solid white;
+    padding: 10px;
+    color: white;
+    margin-top: 10px; }
+  #contact-section-two h3 {
+    font-size: 20px;
+    color: white; }
+  #contact-section-two p {
+    color: white; }
+  #contact-section-two input {
+    border: 1px solid darkblue; }
+  #contact-section-two .last-section {
+    background-color: #2C3A47;
+    color: white; }
+
+#footer-section {
+  padding: 40px;
+  background-color: #596275; }
+  #footer-section .footer-section-1 h2 {
+    color: white;
+    font-size: 35px; }
+  #footer-section .footer-section-1 p {
+    color: white; }
+  #footer-section .footer-section-1 h5 {
+    color: white; }
+  #footer-section .footer-section-1 h6 {
+    color: white; }
+  #footer-section .footer-section-2 h3 {
+    font-size: 25px;
+    color: white; }
+  #footer-section .footer-section-2 ul, #footer-section .footer-section-2 li {
+    list-style-type: circle;
+    color: white; }
+  #footer-section .footer-section-2 li, #footer-section .footer-section-2 a {
+    font-size: 15px;
+    color: white; }
+  #footer-section .footer-section-3 h3 {
+    font-size: 25px;
+    color: white; }
+  #footer-section .footer-section-3 ul, #footer-section .footer-section-3 li {
+    list-style-type: circle;
+    color: white; }
+  #footer-section .footer-section-3 li, #footer-section .footer-section-3 a {
+    font-size: 15px;
+    color: white; }
+  #footer-section .footer-section-4 h3 {
+    font-size: 25px;
+    color: white; }
+  #footer-section .footer-section-4 p {
+    color: white; }
+  #footer-section .footer-section-4 input {
+    border: 1px solid green;
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    background-color: #2c2c54;
+    border-radius: 10px; }
+
+@media (min-width: 576px) {
+  #header-section p {
+    font-size: 10px; }
+  #header-section .icon-section .fab {
+    font-size: 15px; }
+  #about-second-section .first-section {
+    margin-bottom: 10px; }
+  #about-second-section .second-section {
+    margin-bottom: 10px; }
+  #about-second-section .third-section {
+    margin-bottom: 10px; }
+  #make-an-appointment input {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment select {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment textarea {
+    border: 1px solid green; }
+  #departments .second-section {
+    margin-bottom: 20px; }
+    #departments .second-section a {
+      font-size: 20px; }
+  #gallery img {
+    margin-bottom: 10px; }
+  #contact-section-two input {
+    margin-bottom: 10px; }
+  #footer-section .footer-section-1 {
+    margin-bottom: 20px; }
+  #footer-section .footer-section-2 {
+    margin-bottom: 20px; } }
+
+@media (min-width: 768px) {
+  #header-section p {
+    font-size: 15px; }
+  #header-section .icon-section .fab {
+    font-size: 25px; }
+  #about .about-img {
+    margin-bottom: 30px; }
+  #footer-section .footer-section-1 {
+    margin-bottom: 20px; }
+  #footer-section .footer-section-2 {
+    margin-bottom: 20px; } }
+
+@media (min-width: 992px) {
+  #home-section h2 {
+    font-size: 25px; } }
+
+@media (max-width: 575.98px) {
+  #home-section h1 {
+    font-size: 15px; }
+  #home-section h2 {
+    font-size: 15px; }
+  #home-section a {
+    font-size: 15px; }
+  #about .section-2 .fas {
+    font-size: 25px;
+    border: 0;
+    margin-top: 10; }
+  #about .section-3 .fas {
+    font-size: 25px;
+    border: 0;
+    margin-top: 10; }
+  #about .section-4 .fas {
+    font-size: 25px;
+    border: 0;
+    margin-top: 10; }
+  #about-second-section .first-section {
+    margin-bottom: 10px; }
+    #about-second-section .first-section .fas {
+      font-size: 15px; }
+    #about-second-section .first-section h3 {
+      font-size: 15px; }
+    #about-second-section .first-section p {
+      font-size: 15px; }
+  #about-second-section .second-section {
+    margin-bottom: 10px; }
+    #about-second-section .second-section .fas {
+      font-size: 15px; }
+    #about-second-section .second-section h3 {
+      font-size: 15px; }
+    #about-second-section .second-section p {
+      font-size: 15px; }
+  #about-second-section .third-section {
+    margin-bottom: 10px; }
+    #about-second-section .third-section .fas {
+      font-size: 15px; }
+    #about-second-section .third-section h3 {
+      font-size: 15px; }
+    #about-second-section .third-section p {
+      font-size: 15px; }
+  #about-second-section .four-section {
+    margin-bottom: 10px; }
+    #about-second-section .four-section .fas {
+      font-size: 15px; }
+    #about-second-section .four-section h3 {
+      font-size: 15px; }
+    #about-second-section .four-section p {
+      font-size: 15px; }
+  #service h2 {
+    font-size: 15px; }
+  #service p {
+    font-size: 10px; }
+  #service .card-section-1 {
+    margin-bottom: 20px; }
+    #service .card-section-1 .fas {
+      font-size: 15px; }
+    #service .card-section-1 h3 {
+      font-size: 15px; }
+    #service .card-section-1 p {
+      font-size: 15px; }
+  #service .card-section-2 {
+    margin-bottom: 20px; }
+    #service .card-section-2 .fas {
+      font-size: 15px; }
+    #service .card-section-2 h3 {
+      font-size: 15px; }
+    #service .card-section-2 p {
+      font-size: 15px; }
+  #service .card-section-3 {
+    margin-bottom: 20px; }
+    #service .card-section-3 .fas {
+      font-size: 15px; }
+    #service .card-section-3 h3 {
+      font-size: 15px; }
+    #service .card-section-3 p {
+      font-size: 15px; }
+  #service .card-section-4 {
+    margin-bottom: 20px; }
+    #service .card-section-4 .fas {
+      font-size: 15px; }
+    #service .card-section-4 h3 {
+      font-size: 15px; }
+    #service .card-section-4 p {
+      font-size: 15px; }
+  #service .card-section-5 {
+    margin-bottom: 20px; }
+    #service .card-section-5 .fas {
+      font-size: 15px; }
+    #service .card-section-5 h3 {
+      font-size: 15px; }
+    #service .card-section-5 p {
+      font-size: 15px; }
+  #service .card-section-6 {
+    margin-bottom: 20px; }
+    #service .card-section-6 .fas {
+      font-size: 15px; }
+    #service .card-section-6 h3 {
+      font-size: 15px; }
+    #service .card-section-6 p {
+      font-size: 15px; }
+  #make-an-appointment h2 {
+    font-size: 15px; }
+  #make-an-appointment input {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment select {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment textarea {
+    border: 1px solid green; }
+  #departments .first-section h2 {
+    font-size: 15px; }
+  #departments .first-section p {
+    font-size: 10px; }
+  #departments .third-section h3 {
+    font-size: 15px; }
+  #departments .third-section h6 {
+    font-size: 10px; }
+  #departments .third-section p {
+    font-size: 10px; }
+  #doctors .first-section h2 {
+    font-size: 20px; }
+  #doctors .second-section .icon-section {
+    font-size: 20px;
+    margin-bottom: 20px; }
+  #doctors .third-section .icon-section {
+    font-size: 20px;
+    margin-bottom: 20px; }
+  #frequently-asked-questions h2 {
+    font-size: 20px; }
+  #gallery img {
+    margin-bottom: 10px; }
+  #contact-section-two input {
+    margin-bottom: 10px; }
+  #contact-section-two .fas {
+    margin-bottom: 10px; }
+  #footer-section .footer-section-1 {
+    margin-bottom: 20px; }
+  #footer-section .footer-section-2 {
+    margin-bottom: 20px; }
+  #footer-section .footer-section-3 {
+    margin-bottom: 20px; } }
+
+@media (max-width: 991.98px) {
+  #home-2nd-section .section-1 {
+    margin-bottom: 80px; }
+  #home-2nd-section .section-2 {
+    margin-bottom: 80px; }
+  #home-2nd-section .section-3 {
+    margin-bottom: 80px; }
+  #doctors .second-section h3 {
+    margin-top: 10px; }
+  #doctors .second-section .icon-section {
+    font-size: 20px; }
+  #doctors .third-section h3 {
+    margin-top: 10px; }
+  #doctors .third-section .icon-section {
+    font-size: 20px; } }
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #home-section h1 {
+    font-size: 35px; }
+  #home-section h2 {
+    font-size: 15px; }
+  #service .card-section-1 {
+    margin-bottom: 20px; }
+  #service .card-section-2 {
+    margin-bottom: 20px; }
+  #service .card-section-3 {
+    margin-bottom: 20px; }
+  #service .card-section-4 {
+    margin-bottom: 20px; }
+  #service .card-section-5 {
+    margin-bottom: 20px; }
+  #service .card-section-6 {
+    margin-bottom: 20px; }
+  #make-an-appointment input {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment select {
+    margin-bottom: 10px;
+    border: 1px solid green; }
+  #make-an-appointment textarea {
+    border: 1px solid green; }
+  #doctors .second-section .icon-section {
+    margin-bottom: 30px;
+    font-size: 30px; }
+  #doctors .third-section .icon-section {
+    margin-bottom: 30px;
+    font-size: 30px; }
+  #gallery img {
+    margin-bottom: 10px; }
+  #contact-section-two input {
+    margin-bottom: 10px; } }
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .navbar .navbar-brand {
+    font-size: 15px; }
+  .navbar .nav-link {
+    font-size: 10px; }
+  #home-section h2 {
+    font-size: 20px; } }
